@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -61,4 +63,8 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
