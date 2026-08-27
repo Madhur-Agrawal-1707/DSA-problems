@@ -12,23 +12,25 @@ class Solution {
                 
                 
                 int val = board[r][c] - '1';
+
+                int boxIdx = 3 * (r/3) + (c/3);
                 
-                if(rows[r][val] == 1){
+                if(rows[r][val] == 1 || cols[c][val] == 1 || boxs[boxIdx][val] == 1 ){
                     return false;
                 }
 
                 rows[r][val] = 1;
 
-                if(cols[c][val] == 1){
-                    return false;
-                }
+                // if(cols[c][val] == 1){
+                //     return false;
+                // }
 
                 cols[c][val] = 1;
 
-                int boxIdx = 3 * (r/3) + (c/3);
-                if(boxs[boxIdx][val] == 1){
-                    return false;
-                }
+                // int boxIdx = 3 * (r/3) + (c/3);
+                // if(boxs[boxIdx][val] == 1){
+                //     return false;
+                // }
 
                 boxs[boxIdx][val] = 1;
             }
