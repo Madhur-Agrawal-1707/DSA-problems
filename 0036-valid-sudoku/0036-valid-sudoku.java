@@ -20,18 +20,7 @@ class Solution {
                 }
 
                 rows[r][val] = 1;
-
-                // if(cols[c][val] == 1){
-                //     return false;
-                // }
-
                 cols[c][val] = 1;
-
-                // int boxIdx = 3 * (r/3) + (c/3);
-                // if(boxs[boxIdx][val] == 1){
-                //     return false;
-                // }
-
                 boxs[boxIdx][val] = 1;
             }
         }
