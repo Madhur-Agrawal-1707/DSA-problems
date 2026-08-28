@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -38,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0189-rotate-array) |
 ## Hash Table
@@ -67,4 +69,5 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
