@@ -21,6 +21,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -31,6 +32,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/1089-duplicate-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
