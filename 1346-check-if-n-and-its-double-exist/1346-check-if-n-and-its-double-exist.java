@@ -6,9 +6,9 @@ class Solution {
                     return true;
                 }
 
-                if(i != j && arr[i] *2 == arr[j]){
-                    return true;
-                }
+                // if(i != j && arr[i] *2 == arr[j]){
+                //     return true;
+                // }
 
             }
         }
