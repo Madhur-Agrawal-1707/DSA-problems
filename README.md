@@ -26,6 +26,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
