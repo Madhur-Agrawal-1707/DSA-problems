@@ -22,6 +22,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0485-max-consecutive-ones) |
+| [0905-sort-array-by-parity](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/1089-duplicate-zeros) |
@@ -38,6 +39,7 @@
 | [0283-move-zeroes](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -73,6 +75,7 @@
 | [0217-contains-duplicate](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
