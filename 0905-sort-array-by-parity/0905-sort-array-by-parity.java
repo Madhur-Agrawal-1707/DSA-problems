@@ -9,12 +9,15 @@ class Solution {
             if(nums[i] %2 == 0){
                 arr[j] = nums[i];
                 j++;
-            }
-
-            if(nums[i] %2 == 1 ){
+            }else{
                 arr[k] = nums[i];
                 k--;
             }
+
+            // if(nums[i] %2 == 1 ){
+            //     arr[k] = nums[i];
+            //     k--;
+            // }
             i++;
         }
 
