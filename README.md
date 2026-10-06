@@ -19,6 +19,7 @@
 | [0136-single-number](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -118,5 +120,10 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0724-find-pivot-index) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Madhur-Agrawal-1707/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
